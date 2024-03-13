@@ -1,0 +1,6 @@
+/env
+/venv
+logs/
+TESTES/
+.ipynb_checkpoints
+*.h5
